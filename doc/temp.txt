@@ -1,9 +1,0 @@
-1. Problem Identification: maoin problem with the business owners
-2. Business Understanding
-3. Collecting Data: most crucial app
-4. Pre-processing Data
-5. Analyzing Data
-6.Data Modelling
-7. Model Evalution
-8. Model Training
-9. Model Deployment
